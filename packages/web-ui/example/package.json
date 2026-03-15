@@ -19,7 +19,21 @@
     "lucide": "^0.544.0"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@aws-sdk/client-bedrock-runtime": "^3.1009.0",
+    "@google/genai": "^1.45.0",
+    "@mistralai/mistralai": "^1.15.1",
+    "@sinclair/typebox": "^0.34.48",
+    "@types/node": "^25.5.0",
+    "ajv": "^8.18.0",
+    "ajv-formats": "^3.0.1",
+    "chalk": "^5.6.2",
+    "openai": "^6.29.0",
+    "partial-json": "^0.1.7",
+    "proxy-agent": "^7.0.0",
     "typescript": "^5.7.3",
-    "vite": "^7.1.6"
+    "undici": "^7.24.1",
+    "vite": "^7.1.6",
+    "zod-to-json-schema": "^3.25.1"
   }
 }

@@ -1,5 +1,5 @@
 /* Import Claude theme from mini-lit */
-@import "@mariozechner/mini-lit/styles/themes/default.css";
+@import "@mariozechner/mini-lit/src/styles/themes/default.css";
 
 /* Tell Tailwind to scan mini-lit components */
 /* biome-ignore lint/suspicious/noUnknownAtRules: Tailwind 4 source directive */
